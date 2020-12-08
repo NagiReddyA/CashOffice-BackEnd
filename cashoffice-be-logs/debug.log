@@ -1,0 +1,3 @@
+2020-10-02 18:18:33 INFO  CashOfficeTestApplication:50 - Starting CashOfficeTestApplication on DESKTOP-62PCGTD with PID 12280 (started by NagiReddy in D:\cashoffice\New Cash office\CashOffice-Test\CashOffice-Test)
+2020-10-02 18:18:33 DEBUG CashOfficeTestApplication:53 - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2020-10-02 18:18:33 INFO  CashOfficeTestApplication:679 - The following profiles are active: dev

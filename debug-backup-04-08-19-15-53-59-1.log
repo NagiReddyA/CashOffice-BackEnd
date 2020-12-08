@@ -1,0 +1,1 @@
+2019-04-08 15:52:02 DEBUG GlobalExceptionHandler:34 - org.springframework.dao.InvalidDataAccessResourceUsageException: error performing isolated work; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: error performing isolated work
